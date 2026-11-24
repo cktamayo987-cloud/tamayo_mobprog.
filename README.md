@@ -1,0 +1,4 @@
+Lab Activity 0B: Discussion
+During this laboratory activity, I learned how to create and run my first Flutter application using Visual Studio Code. I checked my Flutter environment using the flutter doctor command, and no configuration issues were found.
+I encountered a minor error because I mistyped the flutter create command. I fixed it by correcting the command and successfully creating the project. I used Chrome to run and test my Flutter application.
+This activity helped me understand how Flutter applications work. I also learned the importance of using correct commands, checking dependencies, and organizing project files. I can apply these practices in my future mobile programming activities.
